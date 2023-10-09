@@ -1,0 +1,1 @@
+BASEURL = "https://www.lcwaikiki.com/tr-TR/TR"
